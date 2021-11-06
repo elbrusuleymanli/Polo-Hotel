@@ -1,0 +1,80 @@
+#facebook :hover {
+  color: rgb(61, 57, 253);
+}
+#twitter :hover {
+  color: rgb(56, 182, 255);
+}
+#google :hover {
+  color: rgb(255, 97, 97);
+}
+#pin :hover {
+  color: red;
+}
+#vimeo :hover {
+  color: rgb(56, 182, 255);
+}
+#lin :hover {
+  color: rgb(14, 18, 238);
+}
+#ball :hover {
+  color: rgb(240, 150, 150);
+}
+#youtube :hover {
+  color: rgb(211, 12, 12);
+}
+#rss :hover {
+  color: rgba(1, 241, 33, 0.897);
+}
+#globe:hover .lang-content ul {
+  display: block;
+  transition: all 0.3s ease;
+}
+.lang-content ul li:hover {
+  color: rgb(0, 0, 129);
+  background-color: rgb(236, 226, 226);
+}
+
+#shop:hover .shop-content ul {
+  display: block;
+  transition: all 0.3s ease;
+}
+.shop-content ul li:hover {
+  color: rgb(0, 0, 129);
+  background-color: rgb(236, 226, 226);
+}
+#button:hover {
+  background-color: blue;
+  transition: all 0.3s;
+}
+.bedroom-foto:hover {
+  opacity: 0.8;
+  transition: all ease 0.3s;
+  cursor: pointer;
+}
+.nav-list ul :hover {
+  color: blue;
+  transition: all ease 0.3s;
+}
+.inform
+textarea:focus {
+  box-shadow: 0px 0px 2px 2px rgb(106, 178, 250);
+  transition:  .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.inform
+input:focus {
+  box-shadow: 0px 0px 2px 2px  rgb(106, 178, 250);
+  transition:  .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.send-message button:hover{
+  background-color: blue;
+ 
+}
+.button button:hover{
+  background-color: blue;
+  transition: all 0.3s;
+}
+.footer-right ul :hover{
+  color: blue;
+  cursor: pointer;
+}
